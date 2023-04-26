@@ -3,14 +3,14 @@
 
 Gra została stworzona za pomocą silnika Unity w języku C#.
 Polega ona na rywalizacji dwóch graczy. Celem jest strzelanie do przeciwnika tak, aby poziom jego życia spadł do zera.
-Wygrywa gracz,który ostatni pozostanie przy życiu.
+Wygrywa gracz, który ostatni pozostanie przy życiu.
 
 
 Gra:
 ![gra](screens/game1.png)
 
 
-W grze znajdują się elemnty takie jak ruchome platformy, teleporty oraz zabójczy kwas.
+W grze znajdują się elementy takie jak ruchome platformy, teleporty oraz zabójczy kwas.
 
 
 ------------------------------------------
